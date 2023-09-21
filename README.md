@@ -1,5 +1,5 @@
 # 📍 Portfolio
-¡Hola! Bienvenido a mis proyectos. Los agruparé a todos por acá para un acceso mucho más fácil y rápido 😄
+¡Hola! Bienvenido a mis proyectos. Los agruparé a todos por acá para un acceso mucho más fácil y rápido.
 
 ## Data Analytics
 | Link proyecto | Herramientas | Descripción | 
